@@ -5,3 +5,15 @@ third commit
 
 
 practive to pro.
+
+
+public void MyFuntion() {
+    Console.WriteLine("hello the github");
+
+
+}
+
+
+public void MyInfor() {
+    Console.WriteLine("who is write this word, it is very handsome");
+}
